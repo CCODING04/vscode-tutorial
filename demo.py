@@ -8,6 +8,7 @@ def main():
         print("Hello VSCode!")
     else:
         print("Sad you're not")
+    # ctrl + space cannot trigger suggest
 
 
 if __name__ == "__main__":
